@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { useRouter } from 'next/navigation';
 
 
-export default function quest() {
+export default function Quest() {
   
   const [count, setCount] = useState<number>(0);
 
