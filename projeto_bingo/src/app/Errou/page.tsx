@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function quest() {
+export default function RespostaNegativa() {
     return(
         <main>
             <div>
