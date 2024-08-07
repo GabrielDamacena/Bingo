@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function RespostaNegativa() {
     return(
         <main>
-            <div className="flex flex-col items-center">
+            <div className="flex flex-col items-center justify-center">
             <video width="100%" loop muted autoPlay className="animate-[infinite] w-96 h-96">
                 <source src="img/Bingo-gif-errado.mp4" type="video/mp4" />
                 Seu navegador não suporta o elemento de vídeo.
